@@ -74,6 +74,6 @@ if($user) {
             echo "login fail";  
         }
     }
-} 
+} //xong
 
 
